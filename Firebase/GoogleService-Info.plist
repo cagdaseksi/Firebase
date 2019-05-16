@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379440494106-8kt5necv5ot1nf4uluc3s7g9o85fcv22.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379440494106-8kt5necv5ot1nf4uluc3s7g9o85fcv22</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPXSoEZ7i1NV4wzjotTR8MqBoQJSogO_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379440494106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ceksi.Firebase</string>
+	<key>PROJECT_ID</key>
+	<string>testcrach-af6fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testcrach-af6fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379440494106:ios:f19f91c8d9586600</string>
+	<key>DATABASE_URL</key>
+	<string>https://testcrach-af6fb.firebaseio.com</string>
+</dict>
+</plist>
